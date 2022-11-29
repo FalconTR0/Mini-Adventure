@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Karakter
+  - mermi
+  - dusman
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - mermi
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: alan
+    uniqueID: 2133965691
+    locked: 0
+  - name: duvar
+    uniqueID: 333797559
+    locked: 0
+  - name: Dusman
+    uniqueID: 2995648391
+    locked: 0
+  - name: Karakter
+    uniqueID: 2176223969
+    locked: 0
